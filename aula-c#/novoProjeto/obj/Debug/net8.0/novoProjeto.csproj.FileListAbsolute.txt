@@ -1,0 +1,14 @@
+D:\aula-c#\novoProjeto\bin\Debug\net8.0\novoProjeto.exe
+D:\aula-c#\novoProjeto\bin\Debug\net8.0\novoProjeto.deps.json
+D:\aula-c#\novoProjeto\bin\Debug\net8.0\novoProjeto.runtimeconfig.json
+D:\aula-c#\novoProjeto\bin\Debug\net8.0\novoProjeto.dll
+D:\aula-c#\novoProjeto\bin\Debug\net8.0\novoProjeto.pdb
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\novoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\novoProjeto.AssemblyInfoInputs.cache
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\novoProjeto.AssemblyInfo.cs
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\novoProjeto.csproj.CoreCompileInputs.cache
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\novoProjeto.dll
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\refint\novoProjeto.dll
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\novoProjeto.pdb
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\novoProjeto.genruntimeconfig.cache
+D:\aula-c#\novoProjeto\obj\Debug\net8.0\ref\novoProjeto.dll
