@@ -13,9 +13,7 @@ for(int i = 0; i < vetor.Length; i++){
     vetor[i] = numAleatorio.Next(1, 20);
 }
 
-for(int i = 0; i < vetor.Length ; i++){
-    Console.Write(vetor[i] + " ");
-}
+imprimirVetor(vetor);
 
 do{
     troca = false;
@@ -34,6 +32,11 @@ for(int i = 0; i < vetorTamanho; i++){
 
 Console.WriteLine(" ");
 
-for(int i = 0; i < vetor.Length ; i++){
+imprimirVetor(vetor);
+
+
+static void imprimirVetor(int[] vetor){
+    for(int i = 0; i < vetor.Length ; i++){
     Console.Write(vetor[i] + " ");
+}
 }
