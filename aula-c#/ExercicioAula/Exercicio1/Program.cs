@@ -5,8 +5,10 @@
 
 int[] vetor = new int[10];
 int aux;
-int contador = 0;
+bool troca = false;
+int vetorTamanho = vetor.Length - 1;
 Random numAleatorio = new Random();
+
 for(int i = 0; i < vetor.Length; i++){
     vetor[i] = numAleatorio.Next(1, 20);
 }
@@ -14,20 +16,24 @@ for(int i = 0; i < vetor.Length; i++){
 for(int i = 0; i < vetor.Length ; i++){
     Console.Write(vetor[i] + " ");
 }
+
 do{
-    contador = 0;
-for(int i = 0; i < vetor.Length - 1; i++){
+    troca = false;
+for(int i = 0; i < vetorTamanho; i++){
     if(vetor[i]>vetor[i + 1]){
         aux = vetor[i];
         vetor[i] = vetor[i + 1];
         vetor[i + 1] = aux; 
-        contador++;
+        troca = true;
+        vetorTamanho--;
     }else{
         continue;
     }
 }
-}while(contador != 0);
+}while(troca == true);
+
 Console.WriteLine(" ");
+
 for(int i = 0; i < vetor.Length ; i++){
     Console.Write(vetor[i] + " ");
 }

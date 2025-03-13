@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj": {}
+    "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj": {}
   },
   "projects": {
-    "D:\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj": {
+    "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj",
         "projectName": "Exercicio1",
-        "projectPath": "D:\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj",
-        "packagesPath": "C:\\Users\\MARCOSVINICIUSMAUESD\\.nuget\\packages\\",
-        "outputPath": "D:\\aula-c#\\ExercicioAula\\Exercicio1\\obj\\",
+        "projectPath": "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\Exercicio1\\Exercicio1.csproj",
+        "packagesPath": "C:\\Users\\yboos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\Exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MARCOSVINICIUSMAUESD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\yboos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
