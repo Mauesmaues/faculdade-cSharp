@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\exercicio3\\exercicio3.csproj",
+      "projectUniqueName": "C:\\Users\\yboos\\gitClones\\faculdade-cSharp\\aula-c#\\ExercicioAula\\exercicio3\\exercicio3.csproj",
       "projectName": "exercicio3",
-      "projectPath": "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\exercicio3\\exercicio3.csproj",
+      "projectPath": "C:\\Users\\yboos\\gitClones\\faculdade-cSharp\\aula-c#\\ExercicioAula\\exercicio3\\exercicio3.csproj",
       "packagesPath": "C:\\Users\\yboos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yboos\\OneDrive\\Documentos\\GitHub\\faculdade-cSharp\\aula-c#\\ExercicioAula\\exercicio3\\obj\\",
+      "outputPath": "C:\\Users\\yboos\\gitClones\\faculdade-cSharp\\aula-c#\\ExercicioAula\\exercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yboos\\AppData\\Roaming\\NuGet\\NuGet.Config"
