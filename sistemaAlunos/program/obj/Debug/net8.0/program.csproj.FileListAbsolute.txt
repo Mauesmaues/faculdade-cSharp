@@ -1,0 +1,15 @@
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.sourcelink.json
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\bin\Debug\net8.0\program.exe
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\bin\Debug\net8.0\program.deps.json
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\bin\Debug\net8.0\program.dll
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\bin\Debug\net8.0\program.pdb
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.dll
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.pdb
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\yboos\gitClones\faculdade-cSharp\sistemaAlunos\program\obj\Debug\net8.0\ref\program.dll

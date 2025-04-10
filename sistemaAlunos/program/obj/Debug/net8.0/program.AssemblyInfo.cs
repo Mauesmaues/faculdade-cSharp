@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("novoArquivo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eedb3860ac5734defe8f7fb564aec1f3b74daa69")]
-[assembly: System.Reflection.AssemblyProductAttribute("novoArquivo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("novoArquivo")]
+[assembly: System.Reflection.AssemblyProductAttribute("program")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
